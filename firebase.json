@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "999resepmasakterbaik",	  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
